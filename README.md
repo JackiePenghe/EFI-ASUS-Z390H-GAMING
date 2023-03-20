@@ -26,4 +26,4 @@ OC版本：基于OC 0.8.8
 
 5.声卡可用
 
-6.usb口已定制(不定制USB，macOS Ventura无法识别任何USB，安装时自行尝试可用的USB口链接鼠标和键盘，安装后，按照[【【黑苹果】全新的定制USB教程-哔哩哔哩】 https://b23.tv/Qlab1sC]{https://b23.tv/Qlab1sC}中的教程定制自己的USB)
+6.usb口已定制(不定制USB，macOS Ventura无法识别任何USB，安装时自行尝试可用的USB口链接鼠标和键盘，安装后，按照[黑苹果】全新的定制USB教程-哔哩哔哩](https://b23.tv/Qlab1sC)中的教程定制自己的USB)
